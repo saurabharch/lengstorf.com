@@ -19,7 +19,7 @@
     "gatsby-plugin-offline": "^2.0.9",
     "gatsby-plugin-remove-serviceworker": "^1.0.0",
     "gatsby-plugin-sitemap": "^2.0.9",
-    "gatsby-source-airtable": "^2.0.2",
+    "gatsby-source-airtable": "^2.2.0",
     "gatsby-theme-jason-blog": "^1.2.2-beta.0",
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
